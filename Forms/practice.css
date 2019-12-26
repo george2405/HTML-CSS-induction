@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+form {
+    background-color: lightgray;
+    width: 60%;
+}
+input,select {
+    display: block;
+}
+input[type=text] {
+    width: 95%;
+    border-radius: 10%;
+    border: 1px solid #ccc;
+    padding: 1em 2em;
+
+}
