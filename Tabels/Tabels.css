@@ -1,0 +1,25 @@
+table {
+    border: 2px solid saddlebrown;
+    margin: auto;
+    margin-top: 20px;
+    background-color: seagreen;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+th {
+    background-color: skyblue;
+    border-bottom: 2px solid steelblue;
+    text-align: left;
+    padding: 10px;
+}
+td {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+tr:nth-child(even) {
+    background-color: white;
+}
+tr:nth-child(odd) {
+    background-color: gray;
+}
