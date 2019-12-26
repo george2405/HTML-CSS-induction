@@ -1,0 +1,27 @@
+/* nu mai incepem cu style incepe direct codul css */
+
+  body {
+    background-color: tan;
+
+    font-family: sans-serif;
+/*  exista 5 familii de fonturi : serif, sans serif, monospace, cursive, */
+  }
+  h1 {
+    font-size: 45px;
+  }
+  h1,h3 {
+    color: Green;
+font-family: cursive;
+  }
+  h3 {
+    color: saddlebrown
+  }
+  .cofee{
+    color: blue;
+  }
+  span {
+    color: rgb(13, 235, 13)
+  }
+  #special {
+    color: brown;
+  }
