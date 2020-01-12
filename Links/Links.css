@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    padding-top: 5px;
+}
+a {
+    color: mediumpurple;
+    text-decoration: none;
+}
+a:link {
+
+}
+a:visited {
+    color: orange;
+}
+a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    color: red;
+    text-decoration-style: dotted;
+}
+::selection {
+    background-color: red;
+}
+::first-line {
+    text-transform: uppercase;
+}
